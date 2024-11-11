@@ -1,0 +1,13 @@
+.frame {
+  display: flex;
+  flex-direction: column;
+  height: 40vh;
+  width: 40vw;
+  justify-content: center;
+  align-items: center;
+}
+/* button {
+  display: inline;
+  height: 30px;
+  width: 80px;
+} */
